@@ -14,7 +14,7 @@ Welcome to my GitHub! I'm a Data Analyst with a passion for turning raw data int
 
 ## 📊 Projects
 
-### 🗂️ [Project Name – e.g., Sales Dashboard in Power BI](GitHubRepoLink)
+### 🗂️ [Project Name – e.g., Ecommerces Dash Board  in Power BI](GitHubRepoLink)
 - Built an interactive sales dashboard using Power BI to track KPIs and regional performance.
 
 ### 🐍 [Project Name – e.g., Customer Churn Analysis](GitHubRepoLink)
