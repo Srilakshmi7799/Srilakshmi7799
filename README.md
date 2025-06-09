@@ -23,7 +23,7 @@ Welcome to my GitHub! I'm a Data Analyst with a passion for turning raw data int
 ### 📈 [Project Name – e.g., SQL Data Exploration](GitHubRepoLink)
 - Wrote advanced SQL queries to analyze customer data and identify trends and patterns.
 
-> 👉 Explore all my projects [here](https://github.com/Srilakshmi7799tab=repositories)
+> 👉 Explore all my projects [here](https://github.com/Srilakshmi7799)
 
 ## 📫 Let's Connect
 - **LinkedIn:** https://www.linkedin.com/in/meka-sri-lakshmi-700a032b3/
