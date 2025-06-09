@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name] – Data Analyst
+# 👋 Hi, I'm Meka Sri Lakshmi  – Data Analyst
 
 Welcome to my GitHub! I'm a Data Analyst with a passion for turning raw data into powerful insights. I use tools like **Excel, SQL, Python, Statistics, Power BI**, and **Data Visualization** techniques to help solve real-world problems through data.
 
